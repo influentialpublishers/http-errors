@@ -1,0 +1,24 @@
+{
+  "name": "http-error-objects",
+  "version": "0.0.1",
+  "description": "A simple collection of HTTP error objects to use within expressjs projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/influentialpublishers/http-errors.git"
+  },
+  "keywords": [
+    "http",
+    "error",
+    "expressjs"
+  ],
+  "author": "Nathan A Sculli <nsculli@theinfluentialnetwork.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/influentialpublishers/http-errors/issues"
+  },
+  "homepage": "https://github.com/influentialpublishers/http-errors"
+}
